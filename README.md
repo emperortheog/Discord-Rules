@@ -5,8 +5,7 @@
 </div>
 
 <div> 
-    <h1>## Community Protocols
-        > Rules aren’t just restrictions they’re the foundation of respect the quiet guardians of peace, and the invisible threads that hold a community together. In this server we follow them not out of obligation but to create a space where every voice is valued, every soul feels safe and every moment shared is meaningful. Order builds freedom and kindness gives it life. Here we don’t just follow rules we live by them together.</h1>
+    <h1>> Rules aren’t just restrictions they’re the foundation of respect the quiet guardians of peace, and the invisible threads that hold a community together. In this server we follow them not out of obligation but to create a space where every voice is valued, every soul feels safe and every moment shared is meaningful. Order builds freedom and kindness gives it life. Here we don’t just follow rules we live by them together.</h1>
 </div>
 
 ### 1. Follow Discord’s Terms & Guidelines
